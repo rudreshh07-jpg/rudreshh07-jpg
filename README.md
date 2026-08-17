@@ -99,17 +99,7 @@ recording functionality.
 
 ---
 
-## 📊 GitHub Snapshot
 
-<div align="center">
-
-<img src="https://img.shields.io/github/followers/rudreshh07-jpg?style=for-the-badge&label=FOLLOWERS" alt="GitHub Followers">
-
-<img src="https://img.shields.io/github/stars/rudreshh07-jpg?style=for-the-badge&label=STARS" alt="GitHub Stars">
-
-<img src="https://img.shields.io/github/repos/rudreshh07-jpg?style=for-the-badge&label=PUBLIC%20REPOSITORIES" alt="Public Repositories">
-
-</div>
 
 ---
 
