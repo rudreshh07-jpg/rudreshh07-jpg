@@ -101,11 +101,23 @@ recording functionality.
 
 ## 📊 GitHub Snapshot
 
+## 🐍 Contribution Activity
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rudreshh07-jpg&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub Stats">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/rudreshh07-jpg/rudreshh07-jpg/output/github-snake-dark.svg">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudreshh07-jpg&layout=compact&hide_border=true&theme=transparent" alt="Top Languages">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/rudreshh07-jpg/rudreshh07-jpg/output/github-snake.svg">
+
+  <img
+    src="https://raw.githubusercontent.com/rudreshh07-jpg/rudreshh07-jpg/output/github-snake.svg"
+    alt="GitHub Contribution Snake">
+</picture>
 
 </div>
 
