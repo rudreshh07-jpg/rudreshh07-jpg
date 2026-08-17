@@ -1,4 +1,4 @@
-# Rudresh G
+# G NAGA RUDRESH
 
 ### Computer Science Engineering Student · Software Developer
 
@@ -42,23 +42,6 @@ I like turning ideas into working applications and learning through hands-on pro
 
 ## Selected Projects
 
-### ECG Diagnostic System
-
-A team-based project focused on analysing ECG signals and classifying cardiac conditions using machine learning and deep learning techniques.
-
-**Technologies:** Python · TensorFlow/Keras · NumPy · Pandas · Scikit-learn
-
-[View Project](https://github.com/DarVoidX/ECG-Diagnostic-System)
-
----
-
-### Deepfake Detection System
-
-A team project focused on detecting manipulated media using deep learning and computer vision techniques.
-
-**Technologies:** Python · Deep Learning · OpenCV · Django
-
-[View Project](https://github.com/DarVoidX/deepfake-detection-system)
 
 ---
 
