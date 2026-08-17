@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Computer Science Engineering Student | Software Developer | Web & Cloud Enthusiast</b>
+  <b>Computer Science Engineering Student | Software Developer </b>
 </p>
 
 ---
@@ -14,7 +14,7 @@
 - 🎓 **Computer Science Engineering Student**
 - 💻 Interested in **software development, web development & backend systems**
 - 🌱 Currently learning **Web Development, Cloud & DevOps**
-- ☁️ Exploring **AWS, Docker, Kubernetes and distributed systems**
+- ☁️ Exploring **AWS, Docker, and distributed systems**
 - 🔨 Enjoy building projects and solving programming problems
 
 ---
@@ -26,22 +26,20 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black&borderRadius=20" alt="Java">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black&borderRadius=20" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=black&borderRadius=20" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black&borderRadius=20" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=black&borderRadius=20" alt="Go">
+ 
 </p>
 
 ### 🌐 Web Development
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&borderRadius=20" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&borderRadius=20" alt="CSS3">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=black&borderRadius=20" alt="React">
+ 
 </p>
 
 ### ☁️ Cloud & DevOps
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=black&borderRadius=20" alt="AWS">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=black&borderRadius=20" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=black&borderRadius=20" alt="Kubernetes">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black&borderRadius=20" alt="Git">
 </p>
 
