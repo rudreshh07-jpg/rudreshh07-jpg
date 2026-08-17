@@ -68,8 +68,7 @@ Machine learning project using ECG signals to classify different cardiac conditi
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rudreshh07-jpg&theme=dark&hide_border=true&border_radius=15" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rudreshh07-jpg&show_icons=true&theme=dark&hide_border=true&border_radius=15" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudreshh07-jpg&layout=compact&theme=dark&hide_border=true&border_radius=15" alt="Top Languages" />
+
 </p>
 
 ---
