@@ -1,115 +1,154 @@
-# G NAGA RUDRESH
+<div align="center">
 
-### Computer Science Engineering Student · Software Developer
+# 👋 Hey, I'm G Naga Rudresh
 
-Welcome to my GitHub profile. I enjoy building practical software projects, exploring modern technologies, and continuously improving my problem-solving and development skills.
+### `CSE Student` • `Developer` • `Builder`
 
----
+<p>
+  <a href="https://github.com/rudreshh07-jpg">
+    <img src="https://img.shields.io/badge/GitHub-rudreshh07--jpg-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="mailto:rudreshh07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-## About
+<img src="https://komarev.com/ghpvc/?username=rudreshh07-jpg&style=flat-square&color=2563eb&label=PROFILE+VIEWS" alt="Profile views">
 
-I'm a Computer Science Engineering student interested in **software development, web technologies, backend systems, cloud computing, and DevOps**.
-
-I like turning ideas into working applications and learning through hands-on projects.
-
-- 🎓 Computer Science Engineering Student
-- 💻 Interested in software and web development
-- ☁️ Exploring Cloud & DevOps
-- 🧩 Interested in backend systems and distributed technologies
-- 📚 Continuously learning and building projects
-
----
-
-## Technical Skills
-
-**Languages**
-
-`Java` `Python` `JavaScript` `TypeScript` `Go`
-
-**Web Development**
-
-`HTML` `CSS` `JavaScript` `React`
-
-**Cloud & DevOps**
-
-`AWS` `Docker` `Kubernetes` `Git` `Linux`
-
-**Databases & Backend**
-
-`PostgreSQL` `Redis` `GraphQL`
+</div>
 
 ---
 
-## Selected Projects
-
-
----
-
-### Responsive Landing Page
-
-A responsive landing page developed for the SkillCraft Technology Web Development Internship, featuring an interactive fixed navigation system and scroll-based styling.
-
-**Technologies:** HTML · CSS · JavaScript
-
-[View Project](https://github.com/rudreshh07-jpg/SCT_WD_1) · [Live Demo](https://rudreshh07-jpg.github.io/SCT_WD_1/)
-
----
-
-### Stopwatch Web Application
-
-A responsive stopwatch application developed for SkillCraft Technology with start, pause, resume, reset and lap-recording functionality.
-
-**Technologies:** HTML · CSS · JavaScript
-
-[View Project](https://github.com/rudreshh07-jpg/SCT_WD_2) · [Live Demo](https://rudreshh07-jpg.github.io/SCT_WD_2/)
-
----
-
-## Currently Exploring
+## ⚡ A little about me
 
 ```text
-Backend Development
-Cloud Computing
-DevOps
-Distributed Systems
-Data Structures & Algorithms
-Machine Learning
+I build → I break → I debug → I learn → I build again.
 ```
+
+I'm a Computer Science Engineering student who enjoys turning ideas into
+working software. My interests include **web development, backend systems,
+cloud technologies, DevOps and machine learning**.
+
+* 🎓 Computer Science Engineering Student
+* 💻 Web & backend development
+* ☁️ Cloud and DevOps
+* 🧠 Machine learning
+* 🚀 Learning through hands-on projects
 
 ---
 
-## GitHub Activity
+## 🧰 My Toolkit
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudreshh07-jpg&show_icons=true&hide_border=true&theme=default" alt="Rudresh's GitHub statistics">
-</p>
+| Area      | Technologies                                 |
+| --------- | -------------------------------------------- |
+| Languages | Java · Python · JavaScript · TypeScript · Go |
+| Frontend  | HTML · CSS · JavaScript · React              |
+| Backend   | GraphQL · PostgreSQL · Redis                 |
+| Cloud     | AWS                                          |
+| DevOps    | Docker · Kubernetes · Git · Linux            |
+| ML / AI   | TensorFlow · Keras · Scikit-learn            |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudreshh07-jpg&layout=compact&hide_border=true&theme=default" alt="Most used languages">
-</p>
+---
+
+## 🚀 Projects I've Worked On
+
+
+
+<details>
+<summary><b>🌐 SkillCraft — Responsive Landing Page</b></summary>
+
+<br>
+
+A responsive landing page with an interactive navigation menu, hover effects,
+scroll-based styling and responsive layouts.
+
+`HTML` `CSS` `JavaScript`
+
+🔗 **[Repository](https://github.com/rudreshh07-jpg/SCT_WD_1)**
+· **[Live Demo](https://rudreshh07-jpg.github.io/SCT_WD_1/)**
+
+</details>
+
+<br>
+
+<details>
+<summary><b>⏱️ SkillCraft — Stopwatch Web Application</b></summary>
+
+<br>
+
+A responsive stopwatch application with start, pause, resume, reset and lap
+recording functionality.
+
+`HTML` `CSS` `JavaScript`
+
+🔗 **[Repository](https://github.com/rudreshh07-jpg/SCT_WD_2)**
+· **[Live Demo](https://rudreshh07-jpg.github.io/SCT_WD_2/)**
+
+</details>
+
+---
+
+## 🎯 Currently Exploring
+
+<div align="center">
+
+`BACKEND`   `CLOUD`   `DEVOPS`   `DISTRIBUTED SYSTEMS`
+  `MACHINE LEARNING`   `DSA`
+
+</div>
+
+---
+
+## 📊 GitHub Snapshot
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rudreshh07-jpg&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub Stats">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudreshh07-jpg&layout=compact&hide_border=true&theme=transparent" alt="Top Languages">
+
+</div>
 
 ---
 
 ## 🐍 Contribution Activity
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rudreshh07-jpg/rudreshh07-jpg/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rudreshh07-jpg/rudreshh07-jpg/output/github-snake.svg">
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/rudreshh07-jpg/rudreshh07-jpg/output/github-snake.svg">
-  </picture>
-</p>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rudreshh07-jpg/rudreshh07-jpg/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rudreshh07-jpg/rudreshh07-jpg/output/github-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/rudreshh07-jpg/rudreshh07-jpg/output/github-snake.svg">
+</picture>
+
+</div>
 
 ---
 
-## Let's Connect
+## 📬 Let's Connect
 
-**Email:** [rudreshh07@gmail.com](mailto:rudreshh07@gmail.com)
+<div align="center">
 
-**GitHub:** [github.com/rudreshh07-jpg](https://github.com/rudreshh07-jpg)
+<a href="mailto:rudreshh07@gmail.com">
+  <img src="https://img.shields.io/badge/Email-rudreshh07%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+ 
+
+<a href="https://github.com/rudreshh07-jpg">
+  <img src="https://img.shields.io/badge/GitHub-rudreshh07--jpg-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<br><br>
+
+**Open to learning, building and collaborating.**
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Building, learning, and improving — one project at a time.</i>
-</p>
+<div align="center">
+
+### `Thanks for stopping by! ⭐`
+
+</div>
