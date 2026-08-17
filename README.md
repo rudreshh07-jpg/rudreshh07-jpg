@@ -105,19 +105,13 @@ recording functionality.
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/rudreshh07-jpg/rudreshh07-jpg/output/github-snake-dark.svg">
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=rudreshh07-jpg&show_icons=true&theme=default"
+alt="GitHub Stats">
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/rudreshh07-jpg/rudreshh07-jpg/output/github-snake.svg">
-
-  <img
-    src="https://raw.githubusercontent.com/rudreshh07-jpg/rudreshh07-jpg/output/github-snake.svg"
-    alt="GitHub Contribution Snake">
-</picture>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudreshh07-jpg&layout=compact&theme=default"
+alt="Top Languages">
 
 </div>
 
