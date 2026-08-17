@@ -98,6 +98,11 @@ recording functionality.
 </div>
 
 ---
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rudreshh07-jpg&theme=dark&hide_border=true&border_radius=15" alt="GitHub Streak" />
+
+</p>
 
 
 
