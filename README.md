@@ -41,11 +41,11 @@ cloud technologies, DevOps and machine learning**.
 
 | Area      | Technologies                                 |
 | --------- | -------------------------------------------- |
-| Languages | Java · Python · JavaScript · TypeScript · Go |
-| Frontend  | HTML · CSS · JavaScript · React              |
-| Backend   | GraphQL · PostgreSQL · Redis                 |
+| Languages | Java · Python · JavaScript                   |
+| Frontend  | HTML · CSS · JavaScript                      |
+| Backend   | MongoDb . MySQL . Django . Flask                         |
 | Cloud     | AWS                                          |
-| DevOps    | Docker · Kubernetes · Git · Linux            |
+| DevOps    | Docker · Git · Linux                         |
 | ML / AI   | TensorFlow · Keras · Scikit-learn            |
 
 ---
