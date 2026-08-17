@@ -101,17 +101,13 @@ recording functionality.
 
 ## 📊 GitHub Snapshot
 
-## 🐍 Contribution Activity
-
 <div align="center">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=rudreshh07-jpg&show_icons=true&theme=default"
-alt="GitHub Stats">
+<img src="https://img.shields.io/github/followers/rudreshh07-jpg?style=for-the-badge&label=FOLLOWERS" alt="GitHub Followers">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudreshh07-jpg&layout=compact&theme=default"
-alt="Top Languages">
+<img src="https://img.shields.io/github/stars/rudreshh07-jpg?style=for-the-badge&label=STARS" alt="GitHub Stars">
+
+<img src="https://img.shields.io/github/repos/rudreshh07-jpg?style=for-the-badge&label=PUBLIC%20REPOSITORIES" alt="Public Repositories">
 
 </div>
 
