@@ -1,95 +1,132 @@
-<h1 align="center">Hi, I'm G Naga Rudresh👋</h1>
+# Rudresh G
+
+### Computer Science Engineering Student · Software Developer
+
+Welcome to my GitHub profile. I enjoy building practical software projects, exploring modern technologies, and continuously improving my problem-solving and development skills.
+
+---
+
+## About
+
+I'm a Computer Science Engineering student interested in **software development, web technologies, backend systems, cloud computing, and DevOps**.
+
+I like turning ideas into working applications and learning through hands-on projects.
+
+- 🎓 Computer Science Engineering Student
+- 💻 Interested in software and web development
+- ☁️ Exploring Cloud & DevOps
+- 🧩 Interested in backend systems and distributed technologies
+- 📚 Continuously learning and building projects
+
+---
+
+## Technical Skills
+
+**Languages**
+
+`Java` `Python` `JavaScript` `TypeScript` `Go`
+
+**Web Development**
+
+`HTML` `CSS` `JavaScript` `React`
+
+**Cloud & DevOps**
+
+`AWS` `Docker` `Kubernetes` `Git` `Linux`
+
+**Databases & Backend**
+
+`PostgreSQL` `Redis` `GraphQL`
+
+---
+
+## Selected Projects
+
+### ECG Diagnostic System
+
+A team-based project focused on analysing ECG signals and classifying cardiac conditions using machine learning and deep learning techniques.
+
+**Technologies:** Python · TensorFlow/Keras · NumPy · Pandas · Scikit-learn
+
+[View Project](https://github.com/DarVoidX/ECG-Diagnostic-System)
+
+---
+
+### Deepfake Detection System
+
+A team project focused on detecting manipulated media using deep learning and computer vision techniques.
+
+**Technologies:** Python · Deep Learning · OpenCV · Django
+
+[View Project](https://github.com/DarVoidX/deepfake-detection-system)
+
+---
+
+### Responsive Landing Page
+
+A responsive landing page developed for the SkillCraft Technology Web Development Internship, featuring an interactive fixed navigation system and scroll-based styling.
+
+**Technologies:** HTML · CSS · JavaScript
+
+[View Project](https://github.com/rudreshh07-jpg/SCT_WD_1) · [Live Demo](https://rudreshh07-jpg.github.io/SCT_WD_1/)
+
+---
+
+### Stopwatch Web Application
+
+A responsive stopwatch application developed for SkillCraft Technology with start, pause, resume, reset and lap-recording functionality.
+
+**Technologies:** HTML · CSS · JavaScript
+
+[View Project](https://github.com/rudreshh07-jpg/SCT_WD_2) · [Live Demo](https://rudreshh07-jpg.github.io/SCT_WD_2/)
+
+---
+
+## Currently Exploring
+
+```text
+Backend Development
+Cloud Computing
+DevOps
+Distributed Systems
+Data Structures & Algorithms
+Machine Learning
+```
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rudreshh07-jpg&label=Profile%20views&color=0e75b6&style=flat" alt="rudreshh07-jpg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rudreshh07-jpg&show_icons=true&hide_border=true&theme=default" alt="Rudresh's GitHub statistics">
 </p>
 
 <p align="center">
-  <b>Computer Science Engineering Student | Software Developer </b>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudreshh07-jpg&layout=compact&hide_border=true&theme=default" alt="Most used languages">
 </p>
 
 ---
 
-## 🚀 About Me
-- 🎓 **Computer Science Engineering Student**
-- 💻 Interested in **software development, web development & backend systems**
-- 🌱 Currently learning **Web Development, Cloud & DevOps**
-- ☁️ Exploring **AWS, Docker, and distributed systems**
-- 🔨 Enjoy building projects and solving programming problems
-
----
-
-## 🔥 Skills
-
-### 💻 Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black&borderRadius=20" alt="Java">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black&borderRadius=20" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=black&borderRadius=20" alt="JavaScript">
- 
-</p>
-
-### 🌐 Web Development
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&borderRadius=20" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&borderRadius=20" alt="CSS3">
- 
-</p>
-
-### ☁️ Cloud & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=black&borderRadius=20" alt="AWS">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=black&borderRadius=20" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black&borderRadius=20" alt="Git">
-</p>
-
----
-
-## 📌 Projects
-
-### 🌐 Responsive Landing Page
-Responsive landing page with interactive navigation, hover effects and scroll-based styling.
-
-**Tech:** HTML, CSS, JavaScript
-
-### ⏱️ Stopwatch Web Application
-Responsive stopwatch with start, pause, resume, reset and lap recording functionality.
-
-**Tech:** HTML, CSS, JavaScript
-
-### ❤️ ECG-Based Cardiac Disease Detection
-Machine learning project using ECG signals to classify different cardiac conditions.
-
-**Tech:** Python, TensorFlow/Keras, NumPy, Pandas, Scikit-learn
-
----
-
-## 📊 GitHub Stats
+## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rudreshh07-jpg&theme=dark&hide_border=true&border_radius=15" alt="GitHub Streak" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rudreshh07-jpg/rudreshh07-jpg/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rudreshh07-jpg/rudreshh07-jpg/output/github-snake.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/rudreshh07-jpg/rudreshh07-jpg/output/github-snake.svg">
+  </picture>
 </p>
 
 ---
 
-## 🤝 Connect with Me
+## Let's Connect
 
-<p align="left">
-  <a href="mailto:rudreshh07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rudreshh07%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black&borderRadius=20" alt="Email">
-  </a>
-  <a href="https://github.com/rudreshh07-jpg">
-    <img src="https://img.shields.io/badge/GitHub-rudreshh07--jpg-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black&borderRadius=20" alt="GitHub">
-  </a>
-</p>
+**Email:** [rudreshh07@gmail.com](mailto:rudreshh07@gmail.com)
+
+**GitHub:** [github.com/rudreshh07-jpg](https://github.com/rudreshh07-jpg)
 
 ---
-
-## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rudreshh07-jpg/rudreshh07-jpg/main/dist/github-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <i>Building, learning, and improving — one project at a time.</i>
 </p>
-
----
