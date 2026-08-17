@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rudresh G 👋</h1>
+<h1 align="center">Hi, I'm G Naga Rudresh👋</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rudreshh07-jpg&label=Profile%20views&color=0e75b6&style=flat" alt="rudreshh07-jpg" />
